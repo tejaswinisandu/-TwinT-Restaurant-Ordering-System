@@ -1,4 +1,4 @@
-# 🍽️ TWIN T Restaurant – Self-Ordering System
+#  TWIN T Restaurant – Self-Ordering System
 
 ## Setup & Run
 
@@ -37,22 +37,20 @@ twin_t_restaurant/
 
 | Feature | Status |
 |---|---|
-| 🎬 Splash Screen with progress bar | ✅ |
-| 🍔 Full Menu – 100+ items, 14 categories | ✅ |
-| 🔍 Live Search | ✅ |
-| 🍽️ Today's Special banner | ✅ |
-| 🛒 Shopping Cart (add/remove/qty) | ✅ |
-| 🤖 Smart Recommendations dialog | ✅ |
-| ❤️ Favourite Items | ✅ |
-| 👤 Customer Details + Validation | ✅ |
-| 💰 Offers & Discounts (10% / Free drink / Dessert) | ✅ |
-| 🧾 Billing (Subtotal + Discount + GST) | ✅ |
-| 📄 PDF Invoice (ReportLab) | ✅ |
-| 📁 File Handling (customers.txt / orders.txt) | ✅ |
-| 📊 Order History with search | ✅ |
-| ⭐ Customer Feedback (star rating + comment) | ✅ |
-| 🌙 Light / Dark Theme toggle | ✅ |
-| 🔔 Toast notifications | ✅ |
+|  Splash Screen with progress bar | ✅ |
+|  Full Menu – 100+ items, 14 categories | ✅ |
+|  Live Search | ✅ |
+|  Today's Special banner | ✅ |
+|  Shopping Cart (add/remove/qty) | ✅ |
+|  Smart Recommendations dialog | ✅ |
+|  Favourite Items | ✅ |
+|  Customer Details + Validation | ✅ |
+|  Offers & Discounts (10% / Free drink / Dessert) | ✅ |
+|  Billing (Subtotal + Discount + GST) | ✅ |
+|  PDF Invoice (ReportLab) | ✅ |
+|  File Handling (customers.txt / orders.txt) | ✅ |
+|  Order History with search | ✅ |
+|  Customer Feedback (star rating + comment) | ✅ |
 
 ---
 
@@ -149,6 +147,13 @@ TwinT/
 ├── logo.png
 ├── main.py
 ├── README.md
+|──screenshots/
+│   ├── home.png
+│   ├── menu.png
+│   ├── cart.png
+│   ├── checkout.png
+│   ├── feedback.png
+│   └── bill_pdf.png
 ├── requirements.txt
 └── test_images.py
 ```
@@ -157,7 +162,17 @@ TwinT/
 
 ## Screenshots
 
-Application screenshots will be added in future updates.
+### Home Screen
+![Home Screen](screenshots/home.png)
+
+### Menu
+![Menu](screenshots/menu.png)
+
+### Cart
+![Cart](screenshots/cart.png)
+
+### Checkout
+![Checkout](screenshots/checkout.png)
 
 ---
 
