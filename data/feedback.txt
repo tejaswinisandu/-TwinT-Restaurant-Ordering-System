@@ -1,0 +1,5 @@
+{"name": "Tejaswini Sandu", "phone": "1234567890", "rating": 2, "comment": "1234567890-poiuytresdfghj", "date": "2026-06-04 19:48"}
+{"name": "Tejaswini SAndu", "phone": "1234567890", "rating": 4, "comment": "", "date": "2026-06-06 20:37"}
+{"name": "wertyuiolkjhgfd", "phone": "1234567890", "rating": 4, "comment": "qwertyu", "date": "2026-06-06 20:43"}
+{"name": "Gunda Venkata Tarun", "phone": "1234567890", "rating": 4, "comment": "good!", "date": "2026-06-06 21:09"}
+{"name": "Ramya Sree", "phone": "1234567890", "rating": 2, "comment": "tooo bad", "date": "2026-06-08 13:38"}
