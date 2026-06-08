@@ -175,7 +175,7 @@ This project is intended for educational, learning, and portfolio purposes.
 ---
 
 <p align="center">
-  Developed by <b>Tejaswini Sandu</b> and <b>Tarun Gunda</b>
+  Developed by <b>Tejaswini Sandu</b> and <b> Gunda Venkata Tarun</b>
 </p>
 
 <p align="center">
