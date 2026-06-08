@@ -16,19 +16,31 @@ python main.py
 
 ## Project Structure
 ```
-twin_t_restaurant/
-├── main.py                  ← Main application (all GUI screens)
-├── requirements.txt         ← Python dependencies
+TwinT/
+├── bills/
 ├── data/
-│   ├── menu_data.py         ← Complete menu with all 100+ items
-│   ├── file_handler.py      ← Customers / orders / feedback / favourites
-│   ├── pdf_generator.py     ← PDF invoice generation (ReportLab)
-│   ├── customers.txt        ← Auto-created on first order
-│   ├── orders.txt           ← Auto-created on first order
-│   ├── feedback.txt         ← Auto-created on first feedback
-│   └── favorites.txt        ← Auto-created on first favourite
-└── bills/
-    └── Invoice_TWT001.pdf   ← Auto-saved invoices here
+│   ├── image_cache/
+│   ├── file_handler.py
+│   ├── image_loader.py
+│   ├── menu_data.py
+│   ├── pdf_generator.py
+│   ├── customers.txt
+│   ├── favorites.txt
+│   ├── feedback.txt
+│   └── orders.txt
+├── logo.png
+├── main.py
+├── README.md
+|──screenshots/
+│   ├── home.png
+│   ├── menu.png
+│   ├── cart.png
+│   ├── checkout.png
+│   ├── feedback.png
+│   └── bill_pdf.png
+├── requirements.txt
+└── test_images.py
+
 ```
 
 ---
@@ -125,37 +137,6 @@ python main.py
 
 ```bash
 python data/image_loader.py
-```
-
----
-
-## Project Structure
-
-```text
-TwinT/
-├── bills/
-├── data/
-│   ├── image_cache/
-│   ├── file_handler.py
-│   ├── image_loader.py
-│   ├── menu_data.py
-│   ├── pdf_generator.py
-│   ├── customers.txt
-│   ├── favorites.txt
-│   ├── feedback.txt
-│   └── orders.txt
-├── logo.png
-├── main.py
-├── README.md
-|──screenshots/
-│   ├── home.png
-│   ├── menu.png
-│   ├── cart.png
-│   ├── checkout.png
-│   ├── feedback.png
-│   └── bill_pdf.png
-├── requirements.txt
-└── test_images.py
 ```
 
 ---
