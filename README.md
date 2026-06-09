@@ -167,6 +167,15 @@ python data/image_loader.py
 * Analytics and Reporting
 
 ---
+## Contributors
+
+This project was collaboratively developed by:
+
+* **Tejaswini Sandu**
+* **Gunda Venkata Tarun**
+
+Both contributors participated in the design, development, testing, and improvement of the TwinT Restaurant Self-Ordering System.
+
 
 ## License
 
